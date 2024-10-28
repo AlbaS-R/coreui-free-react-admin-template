@@ -32,8 +32,8 @@ const _nav = [
   },
   {
     component: CNavItem,
-    name: 'Colors',
-    to: '/theme/colors',
+    name: 'Juega un ratito.',
+    to: 'https://www.friv.com/new.html',
     icon: <CIcon icon={cilDrop} customClassName="nav-icon" />,
   },
   {
