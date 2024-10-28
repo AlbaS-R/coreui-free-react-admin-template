@@ -1,0 +1,2 @@
+Los cambios que he hecho ha sido implementar un nuevo botón y modificar un botón en el sidebar y luego el logo que esta en svg por que el que habia en la template al principio 
+también era svg
