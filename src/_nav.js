@@ -32,6 +32,12 @@ const _nav = [
   },
   {
     component: CNavItem,
+    name: 'Página Nueva',
+    to: '/pagina-nueva',
+    icon: <CIcon icon={cilStar} customClassName="nav-icon" />,
+  },
+  {
+    component: CNavItem,
     name: 'Colors',
     to: '/theme/colors',
     icon: <CIcon icon={cilDrop} customClassName="nav-icon" />,

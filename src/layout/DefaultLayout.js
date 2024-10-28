@@ -6,14 +6,7 @@ const DefaultLayout = () => {
     <div>
       <AppSidebar />
       <div className="wrapper d-flex flex-column min-vh-100">
-        <AppHeader />
-     {/* Aquí agrego el botón de la pagina nueva*/}
-        <div style={{ padding: '24px' }}>
-            <Link to="/PaginaNueva">
-              <button className="btn btn-primary">Nueva Página</button>
-            </Link>
-        </div>
-        
+        <AppHeader /> 
         <div className="body flex-grow-1">
           <AppContent />
         </div>
